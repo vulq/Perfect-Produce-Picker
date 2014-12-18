@@ -4,7 +4,7 @@ Users also get around the program by using the Leap Motion controller, and can a
 PLEASE DO THE FOLLOWING BEFORE ATTEMPTING TO LAUNCH THE PROGRAM:
 
 1. Extract this folder if you haven't already.
-2. Install PIL 1.1.7 if you havne't already. Download can be found here: http://www.pythonware.com/products/pil/
+2. Install PIL 1.1.7. Download can be found here: http://www.pythonware.com/products/pil/
 3. Install Tesseract 3.02 to the "pytesser" folder located in this download. Download can be found here: https://code.google.com/p/tesseract-ocr/downloads/detail?name=tesseract-ocr-setup-3.02.02.exe&can=2&q=
 4. Download the LeapMotion SDK, v2.1.x.xxxxx (for Python), directly to the LeapProject folder from this download. Download can be found here: https://developer.leapmotion.com/
 5. In the "project.py" file, near the top, rename the variable "sdkFolder" to the name of the folder you just downloaded.
