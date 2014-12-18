@@ -1,0 +1,2 @@
+Updated storyboard to reflect change in project direction.  
+Also added information to Project Proposal and Competitive Analysis about project concept (item scanner) and use of OpenCV.
