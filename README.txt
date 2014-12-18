@@ -1,3 +1,5 @@
+YouTube video located here: http://youtu.be/txXlyLabw-Y
+
 Welcome! Perfect Produce Picker is a program that allows users to easily identify items from a database (that can be expanded) using a combination of handwritten input (using the Leap Motion to write with index finger in the air and Tesseract OCR) and webcam RGB information using OpenCV.
 Users also get around the program by using the Leap Motion controller, and can add custom items to the database with pictures either uploaded from the computer or taken from the webcam.  Finally, users can browse their current database and narrow the search parameters to find specific items.
 
